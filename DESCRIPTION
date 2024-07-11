@@ -1,0 +1,7 @@
+Package: atease
+Title: Easy access to attributes
+Version: 1.0.33
+Author: Mark Bravington <markb2@summerinsouth.net>
+Description: Easy access to attributes using esnail (at)
+Maintainer: Mark Bravington <markb2@summerinsouth.net>
+License: GPL (>=2)
